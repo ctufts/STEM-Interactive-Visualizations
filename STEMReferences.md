@@ -12,6 +12,9 @@
 
 # Markov Chains
 * [Markov Chains - Setosa.io](http://setosa.io/blog/2014/07/26/markov-chains/index.html)
+* 
+# Machine Learning
+* [Decision Trees by R2D3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
 #  Algorithms
 * [Full Blog Post on Various Algorithms by Mike Bostock](https://bost.ocks.org/mike/algorithms/)
