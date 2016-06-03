@@ -17,6 +17,8 @@
 * [Decision Trees by R2D3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
 #  Algorithms
+* [Interactive Tool (with Code) by Jason Park](http://jasonpark.me/AlgorithmVisualizer/#path=sorting/insertion/basic)
+  * Covers a variety of search and sort algorithms
 * [Full Blog Post on Various Algorithms by Mike Bostock](https://bost.ocks.org/mike/algorithms/)
   * Sampling
     * [Best-Candidate III](https://bl.ocks.org/mbostock/981b42034400e48ac637)
